@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Dana Homes",
+  "url": "https://danahomes.vn",
+  "logo": "https://danahomes.vn/assets/photos/logo-landscape-1.png",
+  "description": "Chuyên mua bán, cho thuê bất động sản Đà Nẵng. Căn hộ chung cư, nhà đất, biệt thự view biển giá tốt.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Nguyễn Văn Linh",
+    "addressLocality": "Đà Nẵng",
+    "addressRegion": "Đà Nẵng",
+    "postalCode": "550000",
+    "addressCountry": "VN"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+84-123-456-789",
+    "contactType": "customer service",
+    "areaServed": "VN",
+    "availableLanguage": ["Vietnamese", "English"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/danahomes",
+    "https://twitter.com/danahomes",
+    "https://www.instagram.com/danahomes",
+    "https://www.youtube.com/danahomes",
+    "https://www.linkedin.com/company/danahomes"
+  ],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://danahomes.vn/search-results?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Nguyễn Văn A",
+    "jobTitle": "CEO & Founder"
+  },
+  "foundingDate": "2020-01-01",
+  "foundingLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Đà Nẵng",
+      "addressCountry": "VN"
+    }
+  },
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Hiệp hội Bất động sản Đà Nẵng"
+    },
+    {
+      "@type": "Organization",
+      "name": "Hiệp hội doanh nghiệp vừa và nhỏ Đà Nẵng"
+    }
+  ]
+}

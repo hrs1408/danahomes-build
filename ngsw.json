@@ -1,0 +1,149 @@
+{
+  "configVersion": 1,
+  "timestamp": 1749889095549,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/244.9e488d923cef8835.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.f9485e83f04440f4.js",
+        "/manifest.webmanifest",
+        "/polyfills.23842595ebd298e4.js",
+        "/robots.txt",
+        "/runtime.ba959c26df5ca4c0.js",
+        "/schema-faq.json",
+        "/schema-organization.json",
+        "/site.webmanifest",
+        "/sitemap.xml",
+        "/styles.aa60b4e7e4476d63.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/images/default_property.jpeg",
+        "/assets/photos/logo-landscape-1.png",
+        "/assets/photos/logo-landscape-2.png",
+        "/assets/photos/logo-square-1.png",
+        "/assets/photos/logo-square-2.png",
+        "/assets/photos/logo-square-3.png",
+        "/assets/photos/marker-icon.jpg",
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png",
+        "/layers-2x.9859cd1231006a4a.png",
+        "/layers.ef6db8722c2c3f9a.png",
+        "/marker-icon.d577052aa271e13f.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-performance",
+      "patterns": [
+        "\\/api\\/products",
+        "\\/api\\/posts",
+        "\\/api\\/categories"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 3600000,
+      "timeoutMs": 10000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
+      "name": "api-freshness",
+      "patterns": [
+        "\\/api\\/product\\/.*",
+        "\\/api\\/post\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 1800000,
+      "timeoutMs": 10000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/244.9e488d923cef8835.js": "edf94edeeb4a2b82e885d119ed8ae330acfb8b9e",
+    "/assets/images/default_property.jpeg": "e22fd6417085d484fd72d93309a48feff09f4c81",
+    "/assets/photos/logo-landscape-1.png": "2ff24a5903d73a4c3dd06329a222b3aecfe534b9",
+    "/assets/photos/logo-landscape-2.png": "076afe8ea4ae6e5aa8cbb1eb50cd6f219ec0cbd2",
+    "/assets/photos/logo-square-1.png": "edc8e80eeff93f63d8b239e01ef41c2b66f04b69",
+    "/assets/photos/logo-square-2.png": "59cab4333ef01ea8104a0ca05983ee282470c3d6",
+    "/assets/photos/logo-square-3.png": "6ff03fdc9fcbb130e56343a5ded6b05ec694b484",
+    "/assets/photos/marker-icon.jpg": "ffb3049a707d64323321750cc75d546f4133e2bc",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/index.html": "5c41d19cc8ada066b231f3bc49c0a5cd1bbdaa59",
+    "/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
+    "/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+    "/main.f9485e83f04440f4.js": "1386b0c11d31eaade15bfad844d7a4c0093178e2",
+    "/manifest.webmanifest": "d4b2de03512d868155552629638b50d5e80862cd",
+    "/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "/polyfills.23842595ebd298e4.js": "ac4e790fe4e544d4317ccf51e251ce958a07eb0a",
+    "/robots.txt": "df3cacb6de7467e14be43abc8fd0a34bced061a1",
+    "/runtime.ba959c26df5ca4c0.js": "7fe79643f52304becdbe22eefc3b8e364b68ecea",
+    "/schema-faq.json": "fd22b2a9e18f73d46e3a3110ad56e042662d0496",
+    "/schema-organization.json": "d225d058e603dcbb8a7f9bb700ad1f5f127f9e38",
+    "/site.webmanifest": "5416fb24d6a0213b7ad61a30863267304e74fc52",
+    "/sitemap.xml": "ea30dd526ffce55b1b6ff10064e633a62b5a73ce",
+    "/styles.aa60b4e7e4476d63.css": "a1c85462f2207dc8f06164d563fb6c4fdc0e68dd"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?api\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

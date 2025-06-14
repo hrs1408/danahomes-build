@@ -1,0 +1,45 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://danahomes.vn/sitemap.xml
+
+# Tối ưu crawl budget
+Crawl-delay: 1
+
+# Cho phép crawl các thư mục quan trọng
+Allow: /assets/
+Allow: /products/
+Allow: /news/
+Allow: /about/
+Allow: /property-consignment/
+Allow: /search-results/
+Allow: /detail/
+
+# Không cho phép crawl các tệp không cần thiết
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /*?*utm_source=
+Disallow: /*?*utm_medium=
+Disallow: /*?*utm_campaign=
+Disallow: /*?*fbclid=
+Disallow: /*?*gclid=
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.log$
+Disallow: /tmp/
+
+# User-agent đặc biệt cho hình ảnh
+User-agent: Googlebot-Image
+Allow: /assets/images/
+Allow: /assets/photos/
+Allow: /public/icons/
+Disallow: /*?*utm_medium=
+Disallow: /*?*utm_campaign=
+Disallow: /*?*fbclid=
+Disallow: /*?*gclid=
+
+# Cho phép Google Images crawl
+User-agent: Googlebot-Image
+Allow: /assets/images/
+Allow: /assets/photos/

@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Có phải trả phí dịch vụ khi mua bán nhà đất qua Dana Homes không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Khi mua bán bất động sản qua Dana Homes, khách hàng không phải trả phí dịch vụ môi giới. Dana Homes cam kết chỉ thu phí từ chủ đầu tư/người bán để đảm bảo người mua không phải trả thêm chi phí phát sinh ngoài giá bất động sản."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Dana Homes cung cấp những dịch vụ nào?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dana Homes cung cấp các dịch vụ sau: Mua bán bất động sản, Cho thuê nhà đất, Ký gửi bất động sản, Tư vấn đầu tư, Hỗ trợ vay ngân hàng, Tư vấn pháp lý, và Quản lý bất động sản."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Thời gian ký gửi bán nhà đất tại Dana Homes là bao lâu?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Thời gian ký gửi bán nhà đất tại Dana Homes thông thường là 30 ngày. Trong thời gian này, chúng tôi cam kết sẽ nỗ lực tối đa để bán được bất động sản của quý khách với giá tốt nhất. Nếu sau 30 ngày không bán được, quý khách có thể gia hạn hoặc hủy hợp đồng ký gửi mà không phát sinh bất kỳ chi phí nào."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Tôi có thể tìm kiếm bất động sản theo khu vực nào tại Đà Nẵng?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Bạn có thể tìm kiếm bất động sản tại tất cả các quận, huyện của Đà Nẵng như: Hải Châu, Thanh Khê, Sơn Trà, Ngũ Hành Sơn, Liên Chiểu, Cẩm Lệ, Hòa Vang và các khu đô thị mới như FPT City, Đà Nẵng Pearl, Monarchy, Cocobay, v.v."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Dana Homes có hỗ trợ người nước ngoài mua bất động sản tại Việt Nam không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Có, Dana Homes có đội ngũ tư vấn viên thông thạo tiếng Anh và am hiểu luật pháp về việc người nước ngoài mua bất động sản tại Việt Nam. Chúng tôi sẽ hỗ trợ khách hàng nước ngoài từ việc tìm kiếm bất động sản phù hợp với quy định pháp luật đến hoàn tất thủ tục pháp lý và giấy tờ sở hữu."
+    }
+  }]
+}

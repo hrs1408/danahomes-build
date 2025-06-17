@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- Trang chủ -->
   <url>
     <loc>https://danahomes.vn/</loc>
     <lastmod>2025-06-14</lastmod>
@@ -12,7 +12,6 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Về chúng tôi -->
   <url>
     <loc>https://danahomes.vn/about</loc>
     <lastmod>2025-06-14</lastmod>
@@ -20,7 +19,6 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Sản phẩm -->
   <url>
     <loc>https://danahomes.vn/products</loc>
     <lastmod>2025-06-14</lastmod>
@@ -28,7 +26,6 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Mua bán -->
   <url>
     <loc>https://danahomes.vn/products/sale</loc>
     <lastmod>2025-06-14</lastmod>
@@ -36,7 +33,6 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Cho thuê -->
   <url>
     <loc>https://danahomes.vn/products/lease</loc>
     <lastmod>2025-06-14</lastmod>
@@ -44,7 +40,6 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Ký gửi bất động sản -->
   <url>
     <loc>https://danahomes.vn/property-consignment</loc>
     <lastmod>2025-06-14</lastmod>
@@ -52,7 +47,6 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Tin tức -->
   <url>
     <loc>https://danahomes.vn/news</loc>
     <lastmod>2025-06-14</lastmod>
@@ -60,11 +54,723 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- Kết quả tìm kiếm -->
   <url>
     <loc>https://danahomes.vn/search-results</loc>
     <lastmod>2025-06-14</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/chinh-chu-can-ban-toa-nha-485-to-ngoc-van-thu-duc-dt-2000m2-san-dong-tien-5nam-gia-75-ty</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1ij8DnOzVc2qqEZAfoNeIqx8fpRrkuOQ3</image:loc>
+      <image:title>Chính chủ cần bán toà nhà 485 Tô Ngọc Vân Thủ Đức (DT 2000m2 sàn), dòng tiền 5%/năm Giá 75 tỷ</image:title>
+      <image:caption>Chính chủ cần bán toà nhà 485 Tô Ngọc Vân Thủ Đức (DT 2000m2 sàn), dòng tiền 5%/năm Giá 75 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1_jh9hYMvV0VyJqskMKAZTkfnZhw7wflW</image:loc>
+      <image:title>Chính chủ cần bán toà nhà 485 Tô Ngọc Vân Thủ Đức (DT 2000m2 sàn), dòng tiền 5%/năm Giá 75 tỷ</image:title>
+      <image:caption>Chính chủ cần bán toà nhà 485 Tô Ngọc Vân Thủ Đức (DT 2000m2 sàn), dòng tiền 5%/năm Giá 75 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1P5E-QOA1QPtahi-wmGmCNtGU1PSG0awA</image:loc>
+      <image:title>Chính chủ cần bán toà nhà 485 Tô Ngọc Vân Thủ Đức (DT 2000m2 sàn), dòng tiền 5%/năm Giá 75 tỷ</image:title>
+      <image:caption>Chính chủ cần bán toà nhà 485 Tô Ngọc Vân Thủ Đức (DT 2000m2 sàn), dòng tiền 5%/năm Giá 75 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/masteri-rivera-danang</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1dj6PhxZ8eoGerIo5iS7jlHhMcI2ggBeR</image:loc>
+      <image:title>Masteri Rivera Danang</image:title>
+      <image:caption>Masteri Rivera Danang bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1U0J12_wiGoIDVSAcSQv0KdIbE4Q5H8RX</image:loc>
+      <image:title>Masteri Rivera Danang</image:title>
+      <image:caption>Masteri Rivera Danang bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1ochQdl46df6RPSGAFuvuRRoEUAfUN5nT</image:loc>
+      <image:title>Masteri Rivera Danang</image:title>
+      <image:caption>Masteri Rivera Danang bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1zEtOoBJpesDBVTDaZbNo2Mx-LBEtkDtF</image:loc>
+      <image:title>Masteri Rivera Danang</image:title>
+      <image:caption>Masteri Rivera Danang bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1DR0eJIP7uH2snbIrbskflignJpWWw3sN</image:loc>
+      <image:title>Masteri Rivera Danang</image:title>
+      <image:caption>Masteri Rivera Danang bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/can-ho-2-phong-ngu-masteri-rivera-danang</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1vgKhVPrswqza_WKuO5kua23k0v7KT_tE</image:loc>
+      <image:title>Căn hộ 2 phòng ngủ Masteri Rivera Danang</image:title>
+      <image:caption>Căn hộ 2 phòng ngủ Masteri Rivera Danang bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1-afhQVwyJvpQexG1mwUhyeun99NlK0MP</image:loc>
+      <image:title>Căn hộ 2 phòng ngủ Masteri Rivera Danang</image:title>
+      <image:caption>Căn hộ 2 phòng ngủ Masteri Rivera Danang bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1RzsZZ3Ihz-XguwiS1hYAFeMKny6tEApO</image:loc>
+      <image:title>Căn hộ 2 phòng ngủ Masteri Rivera Danang</image:title>
+      <image:caption>Căn hộ 2 phòng ngủ Masteri Rivera Danang bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/sun-cosmo-residence</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1choJ0eIkf1KFZKEE8phaKR7SU_fQXqNB</image:loc>
+      <image:title>Sun Cosmo Residence</image:title>
+      <image:caption>Sun Cosmo Residence bán tại Quận Ngũ Hành Sơn - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1H6uAvpQChKbv9nng0vG4CDSuY3fPG8xR</image:loc>
+      <image:title>Sun Cosmo Residence</image:title>
+      <image:caption>Sun Cosmo Residence bán tại Quận Ngũ Hành Sơn - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1UyK8qNLnHbdBGFweQvh8QrUgNWcH6_sQ</image:loc>
+      <image:title>Sun Cosmo Residence</image:title>
+      <image:caption>Sun Cosmo Residence bán tại Quận Ngũ Hành Sơn - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1aQIzzezEp9xV5NRZ4uEkqAXk4WO9Yx6P</image:loc>
+      <image:title>Sun Cosmo Residence</image:title>
+      <image:caption>Sun Cosmo Residence bán tại Quận Ngũ Hành Sơn - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1sYDO1KwMRCzE4BQaK5cc6pJb50J_mmjR</image:loc>
+      <image:title>Sun Cosmo Residence</image:title>
+      <image:caption>Sun Cosmo Residence bán tại Quận Ngũ Hành Sơn - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/dat-nen-nam-hoa-xuan-gia-tot</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1k3TvqaV20-IfP393j3gTacnNgVIu_Z1j</image:loc>
+      <image:title>Đất nền Nam Hoà Xuân Giá Tốt</image:title>
+      <image:caption>Đất nền Nam Hoà Xuân Giá Tốt bán tại Quận Ngũ Hành Sơn - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1Z_ZUgVj3wtyA5-7tLWVHltAuONbGPXCX</image:loc>
+      <image:title>Đất nền Nam Hoà Xuân Giá Tốt</image:title>
+      <image:caption>Đất nền Nam Hoà Xuân Giá Tốt bán tại Quận Ngũ Hành Sơn - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1ertgtrwOImLHElK5iWLRI-MRVfyYnuHh</image:loc>
+      <image:title>Đất nền Nam Hoà Xuân Giá Tốt</image:title>
+      <image:caption>Đất nền Nam Hoà Xuân Giá Tốt bán tại Quận Ngũ Hành Sơn - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/cho-thue-can-ho-2-phong-ngu-a-la-carte-view-bien-tuyet-dep-full-tien-ich-trung-tam-da-nang</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1MRiUs8Gol1ak0MeNKFY3MR-lzRBSEVZ_</image:loc>
+      <image:title>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng cho thuê tại Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1gq9rDArbLrTzV900oOCVKfbdW_T2M4dV</image:loc>
+      <image:title>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng cho thuê tại Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1c8QFHzMbdSvbQrUOIkZuVWxVSMUAmA8S</image:loc>
+      <image:title>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng cho thuê tại Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1Nh3YUsH00m4XLQMFGPDYOSHPm71wCVfy</image:loc>
+      <image:title>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng cho thuê tại Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1j6eLkH0zwIUT5l_3KNzNRvK1rK8XvCv_</image:loc>
+      <image:title>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 2 phòng ngủ A La Carte – View biển tuyệt đẹp, full tiện ích, trung tâm Đà Nẵng cho thuê tại Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/cho-thue-can-ho-1-phong-ngu-view-bien-duong-dinh-dat-son-tra-da-nang</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1ZekPyLvF9mnwCWDN-QuqtytuQOnpnDYi</image:loc>
+      <image:title>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng cho thuê tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1C8b7njCuy14lW5FMs0IqVDiSDw3GiGdP</image:loc>
+      <image:title>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng cho thuê tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1cNLSoKYxpPKuVFzSr6jUzh9uo0mQYAll</image:loc>
+      <image:title>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng cho thuê tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1KsRVtrCaDGDF2eYMZ68QnmSTFd2M1DTF</image:loc>
+      <image:title>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng cho thuê tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1ME2wDCyOlqwpO8EKWC4jE4R64SdjnKVz</image:loc>
+      <image:title>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng</image:title>
+      <image:caption>Cho thuê căn hộ 1 phòng ngủ view biển đường Đinh Đạt – Sơn Trà, Đà Nẵng cho thuê tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/sun-symphony-residence</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1pcynvIWecHehrqv2frz9OXVxNLMgdkxW</image:loc>
+      <image:title>Sun Symphony Residence</image:title>
+      <image:caption>Sun Symphony Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1mXWBqgWO3EFagySY_MkkhG5aj-qKmf1O</image:loc>
+      <image:title>Sun Symphony Residence</image:title>
+      <image:caption>Sun Symphony Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1yiILmd7dnM5985AUbDWSqGrbbolCS3UZ</image:loc>
+      <image:title>Sun Symphony Residence</image:title>
+      <image:caption>Sun Symphony Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/10hplmNhvn7HZO-aQ-EHHbBEmknh7R1gc</image:loc>
+      <image:title>Sun Symphony Residence</image:title>
+      <image:caption>Sun Symphony Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/117kih0XvnCxuKM9YboCTNNII9QZfTp5O</image:loc>
+      <image:title>Sun Symphony Residence</image:title>
+      <image:caption>Sun Symphony Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/da-nang-landmark-tower</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1-ZmOUmbSsPW3pAbRUIfoJikC-heYDY-T</image:loc>
+      <image:title>Đà Nẵng Landmark Tower</image:title>
+      <image:caption>Đà Nẵng Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1EJ-lmGdyIouhwQGM3GHc6P9Lu754GhyE</image:loc>
+      <image:title>Đà Nẵng Landmark Tower</image:title>
+      <image:caption>Đà Nẵng Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1R46i3CcTBU3DKKuZ0A4s3FkI0Qn1NYbg</image:loc>
+      <image:title>Đà Nẵng Landmark Tower</image:title>
+      <image:caption>Đà Nẵng Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1pFEf3nTTdpkB0cJM0L3knGhhAboJHYOB</image:loc>
+      <image:title>Đà Nẵng Landmark Tower</image:title>
+      <image:caption>Đà Nẵng Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1wffxh2qTi41IQf6twfXWWOOR9kK3Tez-</image:loc>
+      <image:title>Đà Nẵng Landmark Tower</image:title>
+      <image:caption>Đà Nẵng Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/can-ho-cao-cap-chuan-nhat-ban-danang-landmark-tower</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1KMFYnfTycn44Ete-L7iwU_3AqhbOVTy5</image:loc>
+      <image:title>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower</image:title>
+      <image:caption>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1-pylCNpDf-0XtUedvJKKjuDkRyZ0KWI8</image:loc>
+      <image:title>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower</image:title>
+      <image:caption>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1TfNnJl_y_cVaDR6H01TZaSEJQyd8M1O9</image:loc>
+      <image:title>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower</image:title>
+      <image:caption>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1UHanEBsNTsLm82AZZJ2ZarkqD1K46nQd</image:loc>
+      <image:title>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower</image:title>
+      <image:caption>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1-YpkOYcQ8JkL0Vu9dln4ZJ5MSyk4cn3I</image:loc>
+      <image:title>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower</image:title>
+      <image:caption>Căn hộ cao cấp chuẩn Nhật Bản – Danang Landmark Tower bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/sun-ponte-residence</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/165sNFvavXD8---gO9ler0nwmjnIJJSfU</image:loc>
+      <image:title>Sun Ponte Residence</image:title>
+      <image:caption>Sun Ponte Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1nKnCqESZJ5wxySu05utH5lIYYOWiKVlT</image:loc>
+      <image:title>Sun Ponte Residence</image:title>
+      <image:caption>Sun Ponte Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/17PWy9ZOJzYRSeWhZLPVK8GKAxSeSDMhi</image:loc>
+      <image:title>Sun Ponte Residence</image:title>
+      <image:caption>Sun Ponte Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1ArwMzvrxLIEAReLQ_Y0_hMim1GUb8VT7</image:loc>
+      <image:title>Sun Ponte Residence</image:title>
+      <image:caption>Sun Ponte Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1Z4Xztc1sItu-HIHr-erUzdk_kdhGAQ_G</image:loc>
+      <image:title>Sun Ponte Residence</image:title>
+      <image:caption>Sun Ponte Residence bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/can-ho-sam-towers-da-nang</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1HC6y3T44mwB35C8tpnivsMoNt50krjYL</image:loc>
+      <image:title>SAM Towers Đà Nẵng</image:title>
+      <image:caption>SAM Towers Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1PE8kOCkvP5yRYxLeE8MFEHjW4lXZZJkI</image:loc>
+      <image:title>SAM Towers Đà Nẵng</image:title>
+      <image:caption>SAM Towers Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1Vmn_Ata-Y-Bl6VwTzuMIuzQzX3G4yRio</image:loc>
+      <image:title>SAM Towers Đà Nẵng</image:title>
+      <image:caption>SAM Towers Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1wVLgsL_HkjLKtTUf1EUi3oUzSQjlNj6V</image:loc>
+      <image:title>SAM Towers Đà Nẵng</image:title>
+      <image:caption>SAM Towers Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/128YzT61LVr1GAfmdHO_rYuwm1g5hMTkK</image:loc>
+      <image:title>SAM Towers Đà Nẵng</image:title>
+      <image:caption>SAM Towers Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/-ban-can-ho-sam-towers-da-nang-can-goc-2-phong-ngu-view-song-da-co-so-hong</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/10SSUR4ghi0KUf0o0yKXJOT9O_CNT901r</image:loc>
+      <image:title> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng</image:title>
+      <image:caption> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1KKL7jlf4h2FnnM9tOCo0MzJnR8xYc3bp</image:loc>
+      <image:title> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng</image:title>
+      <image:caption> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1oZE_zzA4I9eWm2_yETJItNlRpuKy8TzX</image:loc>
+      <image:title> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng</image:title>
+      <image:caption> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/12ApkZ8OzzMP8j3LxGKDGiwO4LeZiavFD</image:loc>
+      <image:title> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng</image:title>
+      <image:caption> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1MWerhu-xT6mV1IsrlaBe9U1ZuIOL5jxB</image:loc>
+      <image:title> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng</image:title>
+      <image:caption> Bán căn hộ SAM Towers Đà Nẵng – Căn góc 2 phòng ngủ, view sông – Đã có sổ hồng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/ban-can-ho-sam-towers-2pn-view-song-thanh-pho-full-noi-that-gia-chi-49-ty</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1kOnG5cnouiSosChOByBa27mC7nHg-zvD</image:loc>
+      <image:title>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ</image:title>
+      <image:caption>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1EFxoxhppzdbESoGZP_KD-xneTiRMD8M0</image:loc>
+      <image:title>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ</image:title>
+      <image:caption>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1Lzddmw2om7OxzU-KUFNPFsqGXTYu2QGW</image:loc>
+      <image:title>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ</image:title>
+      <image:caption>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1rpZlEXk__OmI9Bx4L6rfd9eEa0iidxm-</image:loc>
+      <image:title>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ</image:title>
+      <image:caption>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1-BFzs1Veiq8Q4enkxQvpc7iyenQLvN2m</image:loc>
+      <image:title>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ</image:title>
+      <image:caption>Bán căn hộ SAM Towers – 2PN, View sông &amp; thành phố, full nội thất, giá chỉ 4,9 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/ban-can-ho-samtowers-1-phong-ngu-noi-that-cao-cap-view-song-nui-gia-chi-37-ty</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1JIwxfXbl23HRPVhuMw49mBuOVWljYTwV</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1fFlZ_4kop8uIALWQQX77bIMQrIwRJ0o-</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/15u2w7EGginbkuEevt3eQta2YFTpy5_1h</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1Ujm4hlZXWpXDM1R8liAi3oAVEycapMLT</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1BMPu74ie3_j0lAx3Ja6jqCVgoZ0E28Ds</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS – 1 phòng ngủ, nội thất cao cấp, view sông &amp; núi – Giá chỉ 3,7 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/-ban-can-ho-2-phong-ngu-samtowers-tang-7-full-noi-that-da-co-so-hong-view-song-phao-hoa-gia-chi-52-ty</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/18vstS9oIquwv0Z07Y9QjFwXc_EIApvqm</image:loc>
+      <image:title> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ</image:title>
+      <image:caption> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1NR32zOk4Qv6W0B9RVr0UsLS6db1E2xcK</image:loc>
+      <image:title> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ</image:title>
+      <image:caption> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1iA8dg7skxl2x8QHxiUN1Pxf0oZmxxA66</image:loc>
+      <image:title> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ</image:title>
+      <image:caption> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1jv8T8Qei4g0s7SXx-GdtdojU_7AcaY3g</image:loc>
+      <image:title> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ</image:title>
+      <image:caption> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1HcznsF6x4dGkwhtGBzHlTJ5J5auXM_iU</image:loc>
+      <image:title> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ</image:title>
+      <image:caption> Bán căn hộ 2 phòng ngủ SAMTOWERS – tầng 7, full nội thất, đã có sổ hồng – View sông &amp; pháo hoa, giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/ban-can-ho-samtowers-tang-27-2pn-view-song-full-noi-that-gia-chi-52-ty</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1SG8NltWZq7HeAG-RMcC-5m5ssyBxOblR</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/14PV5U4VfW4clBElZBCZM9Hutjuuuut-c</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1ivX68s24HrgQTq6fwX2GjdHDdw0ZYfUX</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1gSbaLH55e23zoCYqCDNKRMKcZd9WOltm</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1lpje1RcnBdaFR8_b0WT2DakYusCfuuHK</image:loc>
+      <image:title>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ</image:title>
+      <image:caption>Bán căn hộ SAMTOWERS tầng 27 – 2PN – View sông, full nội thất – Giá chỉ 5,2 tỷ bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/cho-thue-can-ho-the-filmore-1-phong-ngu-tang-21-view-cau-rong</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1KBVb-EaRtKzcEWjkzevjn4NS3QO-8NTx</image:loc>
+      <image:title>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng</image:title>
+      <image:caption>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng cho thuê tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1M0ap9-YE2oPendU4XICGDCtQwN8ndkqI</image:loc>
+      <image:title>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng</image:title>
+      <image:caption>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng cho thuê tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/195aEy-7BVDBE8UpEdLPfVi5WuMrTT5Yg</image:loc>
+      <image:title>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng</image:title>
+      <image:caption>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng cho thuê tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1r1GjNwSxhuhe4R2MB6URqn1wZDvxYd-d</image:loc>
+      <image:title>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng</image:title>
+      <image:caption>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng cho thuê tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1VL1pdbNsXetNKAUeWi0sCL-qWPacEl7v</image:loc>
+      <image:title>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng</image:title>
+      <image:caption>Cho thuê căn hộ The Filmore – 1 phòng ngủ – Tầng 21 – View Cầu Rồng cho thuê tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/ban-can-ho-1-phong-ngu-tai-samtowers-tang-11-full-noi-that-view-song-va-nui</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1UiHGwm9JUe48zIenjZ-YYGZK1c90sbrh</image:loc>
+      <image:title>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi</image:title>
+      <image:caption>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1JgQAMpgpNcLBKUfJXUEgWaVvo-FLWTHq</image:loc>
+      <image:title>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi</image:title>
+      <image:caption>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1UJkAyVHDG5WVaXsEiXDTPUZtUVRJQKTG</image:loc>
+      <image:title>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi</image:title>
+      <image:caption>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1B--MTlsYhK_wdTWUTIFsC53trGCv_pTB</image:loc>
+      <image:title>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi</image:title>
+      <image:caption>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1H7pSEzOE_pPq2ttajkmH4mU-qMQuKSUG</image:loc>
+      <image:title>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi</image:title>
+      <image:caption>Bán căn hộ 1 phòng ngủ tại SamTowers – Tầng 11, full nội thất, view sông và núi bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/-can-ban-biet-thu-sieu-dep-hang-hiem-ngay-trung-tam-hai-chau-da-nang</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1lwIQDPQNnFcpR-u9GaX2dNlrz8UFHRYF</image:loc>
+      <image:title> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng</image:title>
+      <image:caption> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng bán tại Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/19gzpT24u0HjRPP7kvLUWcmUVGDtMpMP_</image:loc>
+      <image:title> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng</image:title>
+      <image:caption> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng bán tại Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1fGNS0uimnLKQW-3ALxJ53IJIELwf-MtE</image:loc>
+      <image:title> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng</image:title>
+      <image:caption> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng bán tại Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1tTQCn1WrzCIkyZAhJ5qxsrCWdQKCwwDl</image:loc>
+      <image:title> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng</image:title>
+      <image:caption> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng bán tại Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1YE3D3eJNHLpKtiqGaNnRCY9FyGhF9R1P</image:loc>
+      <image:title> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng</image:title>
+      <image:caption> Cần bán biệt thự siêu đẹp – Hàng hiếm ngay trung tâm Hải Châu, Đà Nẵng bán tại Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/the-filmore-da-nang</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1GgZIWOglbu5qMfqo0fYOqhssg_x3rhba</image:loc>
+      <image:title>The Filmore Đà Nẵng</image:title>
+      <image:caption>The Filmore Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1udYgGMA-PoT9M6EJqhxsNVMrmOXklsfP</image:loc>
+      <image:title>The Filmore Đà Nẵng</image:title>
+      <image:caption>The Filmore Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1CyDwBMujOpZr9qpXYQuyHzp_euzCKXLR</image:loc>
+      <image:title>The Filmore Đà Nẵng</image:title>
+      <image:caption>The Filmore Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1-VL879bDpXJB0-jzkC5_HXUJL11lU7bM</image:loc>
+      <image:title>The Filmore Đà Nẵng</image:title>
+      <image:caption>The Filmore Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1WGlqWSW8Ji86LSoyhCY0Jq6wlRAKtB6O</image:loc>
+      <image:title>The Filmore Đà Nẵng</image:title>
+      <image:caption>The Filmore Đà Nẵng bán tại Quận Hải Châu - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/detail/the-legend-da-nang</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1IPu5mdQ8SPkUb_Ub6W0oRl7tgDGXXXSv</image:loc>
+      <image:title>THE LEGEND ĐÀ NẴNG</image:title>
+      <image:caption>THE LEGEND ĐÀ NẴNG bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1S60QfeKddVvZFMyn9HAaaQrwS7BVAEfw</image:loc>
+      <image:title>THE LEGEND ĐÀ NẴNG</image:title>
+      <image:caption>THE LEGEND ĐÀ NẴNG bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/d/1dkSF8yLikNjJRt_qF_SepGqOQN1nNPo5</image:loc>
+      <image:title>THE LEGEND ĐÀ NẴNG</image:title>
+      <image:caption>THE LEGEND ĐÀ NẴNG bán tại Quận Sơn Trà - DanaHomes</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/post-detail/undefined</loc>
+    <lastmod>2025-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/post-detail/undefined</loc>
+    <lastmod>2025-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/post-detail/undefined</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/post-detail/undefined</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/post-detail/undefined</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/post-detail/undefined</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://danahomes.vn/post-detail/undefined</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 

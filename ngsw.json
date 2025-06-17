@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1750172217249,
+  "timestamp": 1750172697818,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/244.9e488d923cef8835.js",
         "/favicon.ico",
         "/index.html",
-        "/main.54cc27793801eb8a.js",
+        "/main.6ec86350906e99b1.js",
         "/manifest.webmanifest",
         "/polyfills.23842595ebd298e4.js",
         "/robots.txt",
@@ -36,6 +36,7 @@
       },
       "urls": [
         "/assets/images/default_property.jpeg",
+        "/assets/images/logo-for-seo.png",
         "/assets/photos/logo-landscape-1.png",
         "/assets/photos/logo-landscape-2.png",
         "/assets/photos/logo-square-1.png",
@@ -93,6 +94,7 @@
   "hashTable": {
     "/244.9e488d923cef8835.js": "edf94edeeb4a2b82e885d119ed8ae330acfb8b9e",
     "/assets/images/default_property.jpeg": "e22fd6417085d484fd72d93309a48feff09f4c81",
+    "/assets/images/logo-for-seo.png": "af3a79a0ddd203db93bae85e879d33496be4333d",
     "/assets/photos/logo-landscape-1.png": "2ff24a5903d73a4c3dd06329a222b3aecfe534b9",
     "/assets/photos/logo-landscape-2.png": "076afe8ea4ae6e5aa8cbb1eb50cd6f219ec0cbd2",
     "/assets/photos/logo-square-1.png": "edc8e80eeff93f63d8b239e01ef41c2b66f04b69",
@@ -108,10 +110,10 @@
     "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/index.html": "f6b3a34f79e03f5bd18403aaf9d6b6c744ccdb25",
+    "/index.html": "adcf45ae1a21bd8ef64ab2f3a5c5972363a41cef",
     "/layers-2x.9859cd1231006a4a.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/layers.ef6db8722c2c3f9a.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "/main.54cc27793801eb8a.js": "9cd38bc61b52661afed8660e46ef25943220cc50",
+    "/main.6ec86350906e99b1.js": "8f3e474f5a457700604f59e2884e5ee15880667b",
     "/manifest.webmanifest": "0e4d6879183049962db6d8d5b9d38ae9bb9a4797",
     "/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "/polyfills.23842595ebd298e4.js": "ac4e790fe4e544d4317ccf51e251ce958a07eb0a",
